@@ -4,7 +4,7 @@ import sys
 import os
 
 #key_registration
-flickr_api.set_keys(api_key = '6b10a1af9fac3ec5230784818b14c922', api_secret = '31568c07bb425ae4')
+flickr_api.set_keys(api_key = '********************', api_secret = '********************')
 
 #parameters
 photoList=[]
